@@ -1,0 +1,11 @@
+{
+    "git.ignoreLimitWarning": true,
+    "files.associations": {
+        "algorithm": "cpp",
+        "xutility": "cpp",
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "ostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
